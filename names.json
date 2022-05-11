@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Aleksander",
+        "surname": "Emen",
+        "YOB": 1998,
+        "isMarried": "false"
+    },
+    {
+        "name": "Pavo",
+        "surname": "Martin",
+        "YOB": 1999,
+        "isMarried": "false"
+    },
+    {
+        "name": "Aggie",
+        "surname": "Sukhrab",
+        "YOB": 1980,
+        "isMarried": "true"
+    },
+    {
+        "name": "test1",
+        "surname": "test2",
+        "YOB": 153,
+        "isMarried": "true"
+    },
+    {
+        "name": "tesssst",
+        "surname": "teststt34",
+        "YOB": 13512,
+        "isMarried": "false"
+    }
+]

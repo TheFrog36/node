@@ -1,0 +1,20 @@
+[
+    {
+        "title": "iliade",
+        "author": "omero",
+        "price": 10,
+        "copies": 15
+    },
+    {
+        "title": "odissea",
+        "author": "omero",
+        "price": 15,
+        "copies": 20
+    },
+    {
+        "title": "Dome",
+        "author": "S. King",
+        "price": 20,
+        "copies": 5
+    }
+]
